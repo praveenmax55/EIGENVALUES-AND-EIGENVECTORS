@@ -25,7 +25,7 @@ print and run the program
 ```python
 #Program to find the eigen values and eigen vectors.
 #Developed by: PRAVEEN D
-#RegisterNumber:22005917
+#RegisterNumber:212222240076
 import numpy as np
 a=np.array([[4,2],[2,4]])
 values,vectors=np.linalg.eig(a)
